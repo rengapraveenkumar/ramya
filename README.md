@@ -1,2 +1,0 @@
-# ramya
-my ramya portfoliyo

@@ -1,0 +1,225 @@
+html {
+    scroll-behavior: smooth;
+}
+.navbar{
+    padding: 10px 20px !important;
+}
+.bg-20 {
+    background-color: #202020;
+    color: #fff;
+}
+
+.top-hover{
+    color:#038cdc;
+}
+
+.top-btn {
+    border: 2px solid #02dbbe;
+    color: #fff;
+    margin: 10px;
+}
+
+.sm-p {
+    font-size: 10px;
+}
+
+.top-btn:hover {
+    color: #02dbbe;
+    border: 2px solid #038cdc;
+}
+
+.slide_ {
+    font-size: 30px;
+}
+
+.top-a-txt:hover {
+    color: #02dbbe;
+    border-bottom: 3px solid #038cdc;
+    background-color: #038ddc25;
+    border-radius: 3px;
+}
+
+.line-space {
+    line-height: 50px;
+}
+
+
+.clr-light {
+    color: #cccccc;
+}
+
+.clr-light-1 {
+    color: #202020;
+    font-family: 'Dela Gothic One',
+        cursive;
+    font-size: 17px;
+    letter-spacing: 0.5px;
+}
+.navbar-dark .navbar-toggler{
+    border-color: white;
+}
+
+.top-img {
+    width: 500px;
+    height: 500px;
+}
+
+.coz-font-size {
+    font-size: xx-large;
+}
+
+.coz-m {
+    margin-top: auto;
+}
+
+.coz-px {
+    padding-left: 2rem;
+}
+
+.coz-mx {
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.coz-txt {
+    font-size: 15px;
+}
+
+.coz-p-l {
+    padding-left: 2.5rem;
+}
+
+.coz-center {
+    text-align: left;
+}
+
+.top-1st-div {
+    padding: 50px;
+}
+.z-index-1{
+    z-index: 1;
+    padding-top: 44px;
+}
+.content-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.top-name {
+    color: #02dbbe !important;
+    font-family: 'Dela Gothic One', 'cursive';
+}
+
+.font-title {
+    font-family: 'Pacifico', 'cursive';
+}
+
+.clr-diff {
+    color: #02dbbe;
+}
+
+.ico-title-dec {
+    font-size: 60px;
+    opacity: 30%;
+    color: #7e919c;
+    position: relative;
+    top: 0px;
+    margin-right: 10px;
+}
+
+.ico-title-dec-2 {
+    margin-bottom: -90px;
+    font-size: 60px;
+    opacity: 30%;
+    color: #038cdc;
+    display: none;
+}
+
+.big {
+    font-size: 25px;
+}
+
+.big-x {
+    font-size: 70px;
+    margin-bottom: -45px;
+    margin-left: 20px;
+    margin-top: -40px;
+    opacity: 20%;
+}
+
+.free-1 {
+    background-color: #023b5c;
+}
+
+.free-btn {
+    background: linear-gradient(#02dbbe, #038cdc);
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.wrk-img {
+    width: 200px;
+    height: 200px;
+}
+
+.wrk-card {
+    background: #0496eb3a;
+}
+
+.edu-card {
+    border-radius: 5px;
+}
+
+.edu-title {
+    color: #038cdc;
+    font-family: 'Dela Gothic One',
+        cursive;
+}
+
+.edu-p {
+
+
+    font-family: 'Dela Gothic One',
+        cursive;
+    font-size: 14px;
+}
+
+.one-side-border {
+    border-left: 10px solid #038cdc;
+}
+
+.clr-dot {
+    color: cornflowerblue;
+}
+
+
+
+.servi-big-logo {
+    font-size: 80px;
+}
+
+.light-bg {
+    background: #5cacd641;
+}
+
+
+
+
+.clr-hover a {
+    color: #fff;
+}
+
+.clr-hover a:hover {
+    color: #02dbbe;
+}
+
+.clr-hover-1 a {
+    color: #202020;
+}
+
+
+.clr-hover-1 a:hover {
+    color: #02dbbe;
+}

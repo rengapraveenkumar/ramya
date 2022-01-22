@@ -1,0 +1,45 @@
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 361px) {}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 400px) {
+    .top-1st-div {
+        padding: 10px;
+    }
+
+    .slide_ {
+        font-size: 20px;
+    }
+
+    .line-space {
+        line-height: 35px;
+    }
+
+    .coz-p-t {
+        padding-top: 30px;
+    }
+
+    .coz-p-l {
+        padding-left: 1rem;
+    }
+
+    .coz-m {
+        margin-top: -330px;
+        opacity: 20%;
+    }
+
+
+    .coz-cen {
+        letter-spacing: 10px;
+        text-align: justify;
+    }
+
+    .coz-center {
+        text-align: center;
+    }
+
+
+    .coz-txt {
+        font-size: 12px;
+    }
+}
